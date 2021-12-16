@@ -41,7 +41,7 @@
     "sass": "^1.39.2",
     "svelte-awesome": "^2.3.2",
     "svelte-select": "^4.4.1",
-    "svelte-simple-modal": "^1.0.3",
+    "svelte-simple-modal": "^1.1.1",
     "vanilla-picker": "^2.11.2"
   },
   "devDependencies": {
