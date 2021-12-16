@@ -38,7 +38,7 @@
     "jsonrepair": "^2.2.1",
     "lodash-es": "^4.17.21",
     "natural-compare-lite": "^1.4.0",
-    "sass": "^1.39.2",
+    "sass": "^1.43.5",
     "svelte-awesome": "^2.3.2",
     "svelte-select": "^4.4.1",
     "svelte-simple-modal": "^1.0.3",
