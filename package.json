@@ -39,7 +39,7 @@
     "lodash-es": "^4.17.21",
     "natural-compare-lite": "^1.4.0",
     "sass": "^1.39.2",
-    "svelte-awesome": "^2.3.2",
+    "svelte-awesome": "^2.4.2",
     "svelte-select": "^4.4.1",
     "svelte-simple-modal": "^1.0.3",
     "vanilla-picker": "^2.11.2"
