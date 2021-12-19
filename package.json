@@ -31,7 +31,7 @@
     "ace-builds": "^1.4.12",
     "ajv": "^8.6.2",
     "classnames": "^2.3.1",
-    "debug": "^4.3.2",
+    "debug": "^4.3.3",
     "diff-sequences": "^27.0.6",
     "immutable-json-patch": "^1.1.2",
     "json-source-map": "^0.6.1",
