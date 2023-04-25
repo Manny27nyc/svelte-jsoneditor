@@ -45,7 +45,7 @@
     "vanilla-picker": "^2.11.2"
   },
   "devDependencies": {
-    "@commitlint/cli": "13.1.0",
+    "@commitlint/cli": "17.6.1",
     "@commitlint/config-conventional": "13.1.0",
     "@rollup/plugin-commonjs": "20.0.0",
     "@rollup/plugin-json": "4.1.0",
